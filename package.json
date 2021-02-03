@@ -2,7 +2,7 @@
   "name": "c2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://myname.github.io/myapp",
+  "homepage": "http://vulcan-logic.github.io/WEB_HKU_React",
   "dependencies": {
     "bootstrap": "^4.0.0",
     "bootstrap-social": "^5.1.1",
